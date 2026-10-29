@@ -1,0 +1,7 @@
+Bond Paper|2.00|c:\Users\User\OneDrive\Desktop\PRINTING AND SHOP SYSTEM\item_images\1792734522543_images.jpg
+Ballpen|10.00|c:\Users\User\Desktop\PRINTING AND SHOP SYSTEM\item_images\1792224208677_images.png
+Folder|15.00|
+Envelope|5.00|
+Notebook|25.00|
+Matcha|49.00|
+Dark Choco|49.00|
